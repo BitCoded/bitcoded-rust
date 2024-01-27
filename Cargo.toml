@@ -1,7 +1,10 @@
 [package]
 name = "bitcoded"
-version = "0.1.0"
+version = "0.1.2"
 edition = "2021"
+description = "Comprehensive Rust library for all your programming needs"
+license = "GPL-3.0-or-later"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
